@@ -1,3 +1,0 @@
-1. first commit
-2. 2nd change "changing after staged"
-3.            
